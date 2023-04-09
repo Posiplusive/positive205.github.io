@@ -7,4 +7,20 @@ body {
 	background-color: #181a1b;
 	font-family: JetBrains-Mono;
 	color: white;
+	margin: 2%;
+}
+
+#gif {
+	margin: auto;
+	width: 50%;
+}
+
+h1 {
+	text-align: center;
+}
+
+#logo {
+	position: absolute;
+	top: 5;
+	right: 5;
 }
